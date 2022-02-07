@@ -1,1 +1,0 @@
-# Chorme-Extension-template
